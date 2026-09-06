@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 ¡Hola, soy Markus !<br>💻 Desarrollador apasionado por la tecnología y la creatividad<br>Me dedico a construir soluciones que mezclan lógica, diseño y un poco de humor. Creo que el código no solo debe funcionar, también debe ser elegante y fácil de mantener.<br>🚀 Lo que me motiva<br>• 	Aprender algo nuevo cada día<br>• 	Resolver problemas complejos con soluciones simples<br>• 	Colaborar en proyectos open source y compartir conocimiento<br>
 
 
